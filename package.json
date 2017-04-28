@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jess-halley/fizzbuzz2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jess-halley/fizzbuzz2/issues"
+  },
+  "homepage": "https://github.com/jess-halley/fizzbuzz2#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
